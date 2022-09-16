@@ -6,13 +6,13 @@
  
 
 <h2>
-  <a href="https://savvyshivam.vercel.app/">savvyshivam.vercel.app</a>
+  <a href="https://mi-storeclone.netlify.app/">https://mi-storeclone.netlify.app/</a>
 </h2>
 
 ![portfolio website image](https://user-images.githubusercontent.com/85667548/188468172-cfade8b8-cdd1-4fe9-8246-59419f65b1db.png)
 
 <div align="center">
-  <a href="https://savvyshivam.vercel.app/">
+  <a href="https://mi-storeclone.netlify.app/">
   </a>
 </div>
   </div>
@@ -21,7 +21,6 @@
 ## Features 📋
 
 ⚡️ Valid REACT & CSS \
-⚡️ Custom 3D CSS animations\
 ⚡️ Animated Letters on hover\
 ⚡️ Dynamic Data\
   
