@@ -8,9 +8,9 @@
 <h2>
   <a href="https://mi-storeclone.netlify.app/">https://mi-storeclone.netlify.app/</a>
 </h2>
+![1mistore](https://user-images.githubusercontent.com/85667548/190542246-d526fff2-3be1-4f87-8428-a8825775c6b9.png)
 
-![portfolio website image](https://user-images.githubusercontent.com/85667548/188468172-cfade8b8-cdd1-4fe9-8246-59419f65b1db.png)
-![Uploading 1mistore.png…]()
+
 
 <div align="center">
   <a href="https://mi-storeclone.netlify.app/">
