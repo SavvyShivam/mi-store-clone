@@ -24,24 +24,12 @@
 ⚡️ Animated Letters on hover\
 ⚡️ Dynamic Data\
   
-
-## Sections 📚
-
-
-✔️ Home\
-✔️ About\
-✔️ Skills \
-✔️ Works\
-✔️ Contact Me
-
-
-To view a live example, **[click here](https://savvyshivam.vercel.app/)**
+To view a live example, **[click here](https://mi-storeclone.netlify.app/)**
 
 ## Tools Used 🛠️
 
-- [**Vercel**](https://vercel.com/new) - To host my  website (HTML, SCSS, JS, REACT).
+- [**Netflify**](https://www.netlify.com/) - To host my  website (HTML, SCSS, JS, REACT).
 - [**Font Awesome**](https://fontawesome.com/) - A font and icon toolkit based on CSS.
-- [**Leafletjs**](https://leafletjs.com/) - JavaScript Library
 - [**React Loader**](https://www.npmjs.com/package/react-loader) - To add page loading animation.
 - [**Animate CSS**](https://animate.style/) - To add animations.
 
